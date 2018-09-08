@@ -1,0 +1,9 @@
+Observation noise variances
+====================================
+STD AT MEAN: 0.144223 (10 sims)
+STD AT LC1: 0.274541  (10 sims)
+STD AT F1: 0.529463   (10 sims)
+STD AT F2: 0.475314   (10 sims)
+STD AT UC1: 0.245780  (10 sims)
+STD AT UC2: 0.387160  (10 sims)
+STD AT UC3: 0.562290  (10 sims)

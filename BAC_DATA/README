@@ -1,0 +1,6 @@
+Folder containing data for the 2D approximation ("BactInf2D") of the full bacterial infections simulator ("BactInf").
+
+See https://www.ncbi.nlm.nih.gov/pubmed/23822205 for info on the full simulator.
+See my paper for info on the 2D approximate simulator.
+
+Note that the full bacterial infections simulator isn't available in this repository, as the simulator code is private.
